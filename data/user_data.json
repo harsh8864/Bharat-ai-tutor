@@ -1,0 +1,843 @@
+{
+  "whatsapp:+919011429593": {
+    "state": "IDLE",
+    "lastTopic": "Class 5 Science: Plant",
+    "score": {
+      "correct": 0,
+      "total": 2
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "Class 5 Science: Plant"
+    ],
+    "learningHistory": [
+      {
+        "query": "Class 5 Science: Plant",
+        "timestamp": "2025-07-23T17:52:43.874Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 5 Science: Plant",
+        "timestamp": "2025-07-23T18:00:11.091Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "Class 5 Science: Plant",
+        "timestamp": "2025-07-23T18:00:48.194Z",
+        "type": "quiz_answer",
+        "correct": false
+      }
+    ],
+    "joinDate": "2025-07-23T17:52:43.870Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-23",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [
+      "science"
+    ],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true,
+    "correctAnswer": "D"
+  },
+  "918766023995@c.us": {
+    "state": "IDLE",
+    "lastTopic": "Photosynthesis",
+    "score": {
+      "correct": 2,
+      "total": 8,
+      "streak": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "Class 5 science: plant",
+      "Class 5 science: plant",
+      "daily 8am",
+      "What is computer",
+      "Coding kya hoti hai",
+      "What is computer",
+      "vadik era kya hota hai",
+      "Class 5 science: plant",
+      "Class 5 science: plant",
+      "Plant kya hota hai",
+      "Plant kya hota hai",
+      "Tell me roadmap for python dev",
+      "Class 3 english zero to end just chapter by chapter no audio",
+      "Explain Newton's law of motion",
+      "Image",
+      "Computer me coding ka kya kaam hai",
+      "Coding kya hoti hai",
+      "What is aiml",
+      "Give me voice reply",
+      "Class 3 english",
+      "Coding kya hai",
+      "Audio",
+      "English",
+      "Write a for loop in c++",
+      "What is python",
+      "Class 3 english",
+      "What is python",
+      "What is python",
+      "Hindi me batao",
+      "Class 3 plants in Hindi",
+      "Quiz",
+      "A",
+      "Quiz",
+      "Mars",
+      "Progress report",
+      "what is python",
+      "what is python",
+      "what is python",
+      "quiz",
+      "a",
+      "progress report",
+      "what is c++",
+      "What is c++",
+      "What is c++",
+      "What is c++",
+      "Voice msg",
+      "Daily 8 am",
+      "What is c++",
+      "Voice reply",
+      "What is ai bot",
+      "What is biotech",
+      "सी हैव मेंटल प्रॉब्लम्स मेनी टाइप्स ऑफ मेंटल प्रॉब्लम्स स्ट्रेस एंजाइटी एंड मेनी थिंग्स सी हैव सो ट्रेन लाइक दैट एंड सी आल्सो हैव मेनी मूड स्विंग्स आई डोंट नो व्हाई एंड आल्सो मेंशन सी दैट काइंड ऑफ गर्ल एंड सी इज वेरी स्मार्ट दिस इज द इंफॉर्मेशन एंड मेक इट ब्रीफली एंड एटलीस्ट",
+      "What is python",
+      "What is python",
+      "What is python",
+      "What is python",
+      "What is python",
+      "What is python",
+      "What is artificial intelligence?",
+      "What is aaretificial intelligence?",
+      "What is artificial intelligence?",
+      "What is python",
+      "Coding kya hoti hai",
+      "What is python",
+      "What is python",
+      "What is python",
+      "Photosynthesis ke baare mein batao",
+      "Photosynthesis ke baare mein batao",
+      "What is photosynthesis",
+      "What is photosynthesis",
+      "What is therepy",
+      "What is therepy",
+      "Photosynthesis"
+    ],
+    "learningHistory": [
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-23T19:02:06.655Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-23T19:05:22.147Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-24T11:20:34.843Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "daily 8am",
+        "timestamp": "2025-07-24T12:08:56.834Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "daily 8am",
+        "timestamp": "2025-07-24T12:09:42.748Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "What is computer",
+        "timestamp": "2025-07-24T12:10:05.766Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is computer",
+        "timestamp": "2025-07-24T12:10:37.130Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "Coding kya hoti hai",
+        "timestamp": "2025-07-24T12:27:02.099Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is computer",
+        "timestamp": "2025-07-24T13:50:53.540Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "vadik era kya hota hai",
+        "timestamp": "2025-07-24T14:16:46.275Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "vadik era kya hota hai",
+        "timestamp": "2025-07-24T14:18:08.560Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-24T17:06:59.053Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-24T17:44:15.302Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 5 science: plant",
+        "timestamp": "2025-07-25T11:32:29.627Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Plant kya hota hai",
+        "timestamp": "2025-07-25T11:34:13.350Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Plant kya hota hai",
+        "timestamp": "2025-07-25T17:41:17.310Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Tell me roadmap for python dev",
+        "timestamp": "2025-07-25T17:53:01.095Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 3 english zero to end just chapter by chapter no audio",
+        "timestamp": "2025-07-25T17:54:11.860Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Explain Newton's law of motion",
+        "timestamp": "2025-07-25T18:06:23.382Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Image",
+        "timestamp": "2025-07-25T18:07:30.668Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Computer me coding ka kya kaam hai",
+        "timestamp": "2025-07-26T15:07:33.726Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Coding kya hoti hai",
+        "timestamp": "2025-07-26T15:08:24.672Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is aiml",
+        "timestamp": "2025-07-26T15:12:04.792Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Give me voice reply",
+        "timestamp": "2025-07-26T15:12:44.138Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 3 english",
+        "timestamp": "2025-07-26T15:43:44.719Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Coding kya hai",
+        "timestamp": "2025-07-26T15:44:13.774Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Audio",
+        "timestamp": "2025-07-26T15:44:43.128Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "English",
+        "timestamp": "2025-07-26T16:27:19.845Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Write a for loop in c++",
+        "timestamp": "2025-07-26T16:28:11.566Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-26T16:37:00.655Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Class 3 english",
+        "timestamp": "2025-07-26T16:54:28.527Z",
+        "subject": "english",
+        "classLevel": 3
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-26T16:55:27.058Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-26T17:15:29.499Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "Hindi me batao",
+        "timestamp": "2025-07-26T17:16:17.315Z",
+        "subject": "hindi",
+        "classLevel": 5
+      },
+      {
+        "query": "Class 3 plants in Hindi",
+        "timestamp": "2025-07-26T17:17:19.166Z",
+        "subject": "hindi",
+        "classLevel": 3
+      },
+      {
+        "query": "Quiz",
+        "timestamp": "2025-07-26T17:18:48.459Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "A",
+        "timestamp": "2025-07-26T17:19:02.284Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "Quiz",
+        "timestamp": "2025-07-26T17:19:34.850Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "Mars",
+        "timestamp": "2025-07-26T17:19:55.021Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "Progress report",
+        "timestamp": "2025-07-26T17:20:25.026Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "what is python",
+        "timestamp": "2025-07-26T17:38:04.182Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "what is python",
+        "timestamp": "2025-07-26T17:38:32.433Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "what is python",
+        "timestamp": "2025-07-26T17:43:15.693Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "quiz",
+        "timestamp": "2025-07-26T17:47:18.579Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "a",
+        "timestamp": "2025-07-26T17:47:45.204Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "progress report",
+        "timestamp": "2025-07-26T17:50:18.701Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "what is c++",
+        "timestamp": "2025-07-27T03:50:28.892Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T03:54:46.645Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T03:56:15.372Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T04:18:35.564Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T04:19:21.991Z",
+        "type": "quiz_answer",
+        "correct": true
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T04:40:27.648Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T04:43:55.838Z",
+        "type": "quiz_answer",
+        "correct": true
+      },
+      {
+        "query": "Voice msg",
+        "timestamp": "2025-07-27T04:44:16.437Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Daily 8 am",
+        "timestamp": "2025-07-27T04:47:18.509Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is c++",
+        "timestamp": "2025-07-27T05:31:51.160Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "Voice reply",
+        "timestamp": "2025-07-27T05:32:14.557Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is ai bot",
+        "timestamp": "2025-07-27T12:48:01.880Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is biotech",
+        "timestamp": "2025-07-27T13:54:57.369Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "सी हैव मेंटल प्रॉब्लम्स मेनी टाइप्स ऑफ मेंटल प्रॉब्लम्स स्ट्रेस एंजाइटी एंड मेनी थिंग्स सी हैव सो ट्रेन लाइक दैट एंड सी आल्सो हैव मेनी मूड स्विंग्स आई डोंट नो व्हाई एंड आल्सो मेंशन सी दैट काइंड ऑफ गर्ल एंड सी इज वेरी स्मार्ट दिस इज द इंफॉर्मेशन एंड मेक इट ब्रीफली एंड एटलीस्ट",
+        "timestamp": "2025-07-27T14:12:00.118Z",
+        "type": "topic_learning",
+        "language": "hindi"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:12:21.933Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:17:32.402Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:24:37.243Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:28:52.935Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:37:08.478Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T14:44:18.587Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is artificial intelligence?",
+        "timestamp": "2025-07-27T14:53:47.295Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is aaretificial intelligence?",
+        "timestamp": "2025-07-27T14:55:14.147Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is artificial intelligence?",
+        "timestamp": "2025-07-27T15:39:04.038Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-27T16:27:53.832Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "Coding kya hoti hai",
+        "timestamp": "2025-07-27T16:36:30.771Z",
+        "type": "topic_learning",
+        "language": "english"
+      },
+      {
+        "query": "What is python",
+        "timestamp": "2025-07-28T18:13:24.079Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Photosynthesis ke baare mein batao",
+        "timestamp": "2025-07-28T18:40:21.956Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Photosynthesis ke baare mein batao",
+        "timestamp": "2025-07-29T15:07:54.334Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is photosynthesis",
+        "timestamp": "2025-07-29T15:55:46.697Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is photosynthesis",
+        "timestamp": "2025-07-29T15:59:26.846Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is therepy",
+        "timestamp": "2025-07-31T11:42:19.484Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is therepy",
+        "timestamp": "2025-07-31T12:29:49.359Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Photosynthesis",
+        "timestamp": "2025-08-08T14:58:34.104Z",
+        "type": "topic_learning"
+      }
+    ],
+    "joinDate": "2025-07-23T19:01:45.494Z",
+    "audioPreference": true,
+    "voiceMessageCount": 1,
+    "textMessageCount": 18,
+    "lastVoiceLanguage": "english",
+    "difficultyLevel": 1,
+    "streakDays": 1,
+    "lastActiveDate": "2025-08-08",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [
+      "science",
+      "computer",
+      "general"
+    ],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true,
+    "correctAnswer": "B",
+    "voiceEnabled": true,
+    "currentQuestion": "🧠 **Class 5 GENERAL QUIZ!** 🎯\n\n**Question:**  Which of these is a mammal that lives in the water?\n\n**Options:**  \nA) Shark\nB) Whale\nC) Goldfish\nD) Octopus\n\nChoose your answer! 🎯\nअपना उत्तर चुनें! 🎯\n\n[ANSWER: B]\n"
+  },
+  "917620297931@c.us": {
+    "state": "IDLE",
+    "lastTopic": "What is computer",
+    "score": {
+      "correct": 0,
+      "total": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "What is computer"
+    ],
+    "learningHistory": [
+      {
+        "query": "What is computer",
+        "timestamp": "2025-07-24T13:54:03.447Z",
+        "type": "topic_learning"
+      }
+    ],
+    "joinDate": "2025-07-24T13:54:03.446Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-24",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true
+  },
+  "919359032865@c.us": {
+    "state": "IDLE",
+    "lastTopic": "Vadik Era kya hota hai",
+    "score": {
+      "correct": 0,
+      "total": 1
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "Vadik Era kya hota hai"
+    ],
+    "learningHistory": [
+      {
+        "query": "",
+        "timestamp": "2025-07-24T14:11:49.800Z",
+        "type": "quiz_answer",
+        "correct": false
+      },
+      {
+        "query": "Vadik Era kya hota hai",
+        "timestamp": "2025-07-24T14:15:53.495Z",
+        "type": "topic_learning"
+      }
+    ],
+    "joinDate": "2025-07-24T14:11:07.005Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-24",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true,
+    "correctAnswer": "B"
+  },
+  "917499250329@c.us": {
+    "state": "IDLE",
+    "lastTopic": "Ouiz",
+    "score": {
+      "correct": 0,
+      "total": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "What is computer",
+      "What is fungi",
+      "Ouiz"
+    ],
+    "learningHistory": [
+      {
+        "query": "What is computer",
+        "timestamp": "2025-07-24T14:12:03.620Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "What is fungi",
+        "timestamp": "2025-07-24T14:20:21.494Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Ouiz",
+        "timestamp": "2025-07-24T14:20:45.042Z",
+        "type": "topic_learning"
+      }
+    ],
+    "joinDate": "2025-07-24T14:12:03.618Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-24",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true
+  },
+  "918412888009@c.us": {
+    "state": "IDLE",
+    "lastTopic": "Tell me about biotechnology subject",
+    "score": {
+      "correct": 0,
+      "total": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "Tell me about biotechnology subject"
+    ],
+    "learningHistory": [
+      {
+        "query": "Tell me about biotechnology subject",
+        "timestamp": "2025-07-26T15:50:53.477Z",
+        "type": "topic_learning"
+      }
+    ],
+    "joinDate": "2025-07-26T15:50:53.474Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-26",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true
+  },
+  "918956822009@c.us": {
+    "state": "IDLE",
+    "lastTopic": "give an html code",
+    "score": {
+      "correct": 0,
+      "total": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "What is photosynthesis",
+      "Code in python",
+      "give an html code"
+    ],
+    "learningHistory": [
+      {
+        "query": "What is photosynthesis",
+        "timestamp": "2025-07-26T16:35:28.656Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "Code in python",
+        "timestamp": "2025-07-26T16:37:25.846Z",
+        "type": "topic_learning"
+      },
+      {
+        "query": "give an html code",
+        "timestamp": "2025-07-26T18:08:30.403Z",
+        "subject": "general",
+        "classLevel": 5
+      }
+    ],
+    "joinDate": "2025-07-26T16:35:28.654Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-26",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true
+  },
+  "status@broadcast": {
+    "state": "IDLE",
+    "lastTopic": "/9j/4aaqskzjrgabaqaaaqabaad/2wceaakjcqkkcqolcwoodw0pdhuteretfr8wgbyyfh8whimehimemcozkscpmypmozu1o0xxsuvjv2pfx2qff4wuruobcqkjcqojcgslcg4pdq8ofrmrermvhxyyfhgwhzaeix4eix4wkjmpjykzkkw7ntu7tfdjrulxal9faov/ha6u6v/cabeiakaawqmbigaceqedeqh/xaawaaacawebaqeaaaaaaaaaaaaabgqfcacdagebaqebaaaaaaaaaaaaaaaaaaaba//aaawdaqaceamqaaaa5+mvkmaaaaaaa9aqzxqayqjpkmaaaaaab0pugx9qgvuz/wdjlrdlcfrn8hqh44canigfrpxx61bmpthllaykqwxy0f9z1+dyh1ljb+ukd+ztmeydn5k02zxsxdjpovfad6clamw9hnifqqmlaqtn5l00zyshztitt91r0uknrzwmxvglxhe0566bzfp04tf89vy+ombkz1tzo/icik7+lvy+and/akdy/qazvztvrh5eohbovgmijh1fcvg/a6hqdl+odkqm8owaaaaaahq9qzf1azvrnjnaaaaaaa6hqdk2mz//xaa4eaabawiccaucbaufaaaaaaabagmeaauheqyqeiexnnkzezayuymiqrqwyyficxouounvvpgs/9oacaebaae/anp4sajpddgirdblkpb2w20hcrm0nysoicsbpdaylx2n2viezbdqfpotzr8san/7dbp7rqssodlv8hzr5wfvott6h+0dwjhol3+dso8rc3nw29d/agjqxi50u/wdlhlyw8623of7r1ykc6xf4oyjysledbb0p9o6sq+dlv8ab2uu5o6xlwmnac87mdwbwy6udihs+o4jicduym/hdzdqahasggghqcikkefbmeuhclqcujmmrno42ojcetmajq2wuhkeaaug01ngmswihbyinx+wrgo+ije0abaiirdhna29d/boretns8fb2uu9cxn0hd2biuokuha3fbjj9qzvxpusealkx21jttkzqc3kxxubtzz7qsuivvhf2frguttpa9qsakn3idb0kly8z9kp3mhpnc5yyifcqhb4lcnsmby7gx+jveetl6rmfutbbeukgji1hlztbeh/thvipzpd/g7kkzngruq4lbeihoxquae/sjpqzmjd01zri7kb2xlzucrxfb8da1dapgnz8pb4bbcu0jb2cxnu/u5u7fu7k2yxjxjsoanimv0inximtrwnfo2vk3gsmedbz0p9o6sr+dlv8hzrqnnsnwmihcimzvyq02wtg3hjml1kgjyaa29r9yrvkioxnulxqjptuuehslujrxkkzbkeh+wzqlaetj63cv8awk0vjamiyt6vvhlzrboh/thvilzpepg7knrrry2omkus+pkqj2xpvirupzhvwp64xissjcup0apzsomhiajuudazngu46s+w2tv+fxgo15ckzl9qrsky3iirh3ardlna2dd/agjqxf50vhwdlgo1oxl/aa7rw98qvcvlgqqvchokl8jlp3jyqpntsb/wjhsasa/mkbiudhd2apubqnwxnwwxwdr7cdv0yugxfz7tkmsmudrb0p8aaorebns8fb2uvcgypzvgxmitewdr9dbu8hzwgmsocvq4/wdnohcn2+z4t7c21f4i9wategtkg0hp0+53cntf7tpn5ppmhr7jso55vdrzbqahenx4hakfkjjx7k1knlkpwwllktkgwye5n9ztnniicllhax7gddv9ddbjr9yckwx52tvq/wbo6r5z2jmm94lphmnomai+bfiyasbwsadma1tqtllwpukvml62qjyinpg3s/8adqjbnspizb3ce5uhtregbycdk5pjpqaq8qoe5xp5b8tji2vfwnfkf5uii22njkqbugttjjvv+kpceifyyc623of7r1acsrixpzdtdluaswohh9ffqdjepsxrnhsgfurdavlb2cqlbtkgnxsnyjirsi9ut5bgr97dt30+6lvabzkjrmdp9zvsjonrwktvha0/r9buegqqpfgwk5rwrtzqsd7z0vsemmrlpat8q2dyaeeu6oqjrc3ns29d/aorty9xkdpze48wqwklwws5f0eu9mlvubx6q64shmkuoqnrwtir+wxgw5kwhquhfvz9cyuf1mhtqnxhwkuaq6s2rxdkpqy+hskfqaxnewtsiretsn1ruvkusfeku7+jp1zag7vhbzpbeh/thvirzpd/g7kpkwt50tvq/wbo6ssodlv8hzr5wfvolt6h+0dwjhol3+dso8rc3ns29d/aorejns7/aadlhlyw86w3of7r1afyo0vs66pxx2nmv+dsunqc0njpplybzikls6a/lktmmpq9m46siqm2zx5q0x/5ba/7pqv/xaabeqacagmbaaaaaaaaaaaaaaabagmridaxup/aaagbagebpwdzjmkbxo12/kgruegkcxzyv//eabsraaicaweaaaaaaaaaaaaaaaecetedidbq/9oacaedaqe/aoi4nzhcut7sqcjvyv/z",
+    "score": {
+      "correct": 0,
+      "total": 0,
+      "streak": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsStudied": [
+      "/9j/4aaqskzjrgabaqaaaqabaad/2wceaakjcqkkcqolcwoodw0pdhuteretfr8wgbyyfh8whimehimemcozkscpmypmozu1o0xxsuvjv2pfx2qff4wuruobcqkjcqojcgslcg4pdq8ofrmrermvhxyyfhgwhzaeix4eix4wkjmpjykzkkw7ntu7tfdjrulxal9faov/ha6u6v/cabeiakaawgmbigaceqedeqh/xaazaaacawebaqaaaaaaaaaaaaaebqmgbwibaaeaagmbaqaaaaaaaaaaaaaaaaibawqfbv/aaawdaqaceamqaaaaqucnfpx6898dzjumjmcc053x0m5xyjatszpuovtz59j0a/hiyyzxyzgsnmuyldjmbnhzudfas1arrwk1k9bxnaxfu6zrwtutk8g7jd9ovekepajalscqhvfwz+35+oweptpfll9g0c+fsetsqmmi0ohqbhv4nn1zddm/ddrtajmk8/ftahpfr6oetcaok6vcxam5o4915rrczxoeg59sxvvhbihwhnxofap7qsvu/cgepi4lbqdayka2vcdcvwb0gatfoyriqqoatu0xoi8hn1tyz4vxsf2cq33wzyl46kct5zqed6rdbw588ui5h0rtiemrmm1tfzr84f5ls3sareoeqnaci7fkdurs0bse/wddvufkujfxq2q9iiztaqp6sj//xaa3eaacaqmdagqdbqcfaqaaaaabagmabbefeiexqrmiuxegmoeqfcncsvjhcpghwdevjfnikuh/2gaiaqeaat8aau/2n7iinksobdjarbeqzregf2a8nosrvv8alvr8g+w13o/yfsb2vupq96hnbyt3gfydhtkkg4fwp8orne13fzou1gpxuwbe4ao3kgngrx3rykj1nwpbjyo9wx8v2yjrwxoqse4rwsvvhv7mlsmswlhotwtm5uazwjhjx24rwozg8zrglnamadk1cgkh8jgvboek/wbomwqrl0q1iegjufgrvqwk8gs1vwr7ukjeh2nrsakb5cnsttga+uyebzmofhok074u1dio+otysn0+k1gpkglmpqas9k3awem0hjkkd1zrowoa8zkyfcqf3gvv11/ymlbc6jomgc1jplrhkhaaktkgvcysldizydy5i208jjrweiopomqavpvjgbboqvpsa0fzagkwxklsx3blbwdjjnadqfm8e8owadegqcjbjp61cro2swzrnkwprwkmvj9crv7o11a6qlcjs8jh8ptuq13qgsqaog2ng5gvjftnhhi/znehqctrup30g+x+ausihw/ct5t60hbuyudjtwrpliu9zwnwmnz6za+peg2xlwirwy6zcwofeckmsb1xitl0s1jdpyruyp1clyrwrxqw9xnqj/nawej7tvhm0ke5z53yx+pq4ybwhqklko2jjyaq/l/ckb4b+e1uwkuj4s4hzvxwht+napadiwpgvppbjtf3xz3/apvwsc0ukjphmn5forwr6prwrssjfjhhajbtvzy5h5uaaudmvdjuii7hmkrtv15vqujthinhqaj/alcs4vvy15syvsx9am1b6dfxc22ofsk8srgchauj34cvucrrv925rstzhmcilfjaqasrprzfl3yjcb6dmomvi7ycqwchzdiwevguzwcxhd1288g1rxy6jqmstvlfi6rornt34jxnc8a1od8aspugm6giotuyrqphgc8to7q8etnkrdjik0uziieuvuiioyjfs6ffecrsjc6hqt4u5efxzgbesamenffd8n0dx8bguoikuryukitsbj5fzhsay7dv9audlinkl2byahwv2rshtuqg4rx9aunugjggmeyhgy4wueybgvpwippftabfs0mkcbnc4porr+d9kejtl9kj9ixvqb4fvyx2xduv7e7hwi2bvb5ek5jqhppyvbscgur+vku1nrwkqgl72eedvdbm/kutv78u6oylumzs9waaf/rfxu9plqd1nyrev187docwhmavhvr7a2jw5vszbhez2pyy6cpvbtz+1ubzh291gkt0jct61qthjn+pcim4xdda3mb6e1aagbk+dhltdrklio5/lsnkqkdbisaatxvr8l3co4pq5rxidhiv8tr+d7jziy95dkscmqux9fofcoh+h54pmi/mzxjqf4p0cfpew0d1znjkbiriytbs81hyrbfzdjc7v3ang1pejisoawibyf+i8ct4zupmksy7shpxeuw48uojgt/kru0wdu+oajhb7nq8ta/enw5mlmzdug+jcpllxbh+4ihjtsp/aln+gpsp0ulckiislq8vbn7ctsnsrsqnmagafa4xgelyxsbplomsciwnshfl/wbe/q1f6+iijiy7yblbbcybgscox4ptefqfvsfttf/9pnjs0lgizggxa8j2igfzckt7o8ezwhupqqcbzuwrf0vv60ytaqzd2umoovep+71auqzofluiihnkriwb6mx/tvrbw1ozfi6uwz2jyzh1joucspai4c4hu9kjtbx/omfhanmtvyumt50pyldopq1c6kaarwmpjuolrtmtyy9mgmp0nn8pj6ec1e5v6kilozhuohbppwtppsoi20o/vunttoffb8asxom0xwmhf1qyzat0jgb74pr+hjy3oaeybsixdgzknxvyfasg4qykthx3w3fqpvsmuofl09dtxsqdkhppuzaz+vbao+ue9sepo7i1neftdj07l60icojmfrjjrwf9uxyezgwpuabsgziwt0jjytu61jdrgc7ofbpfxu91djikzyf37q5i9dmrcwrfus43dgx0qc4hvt5zugu8vbuilzfdfly5xue6xpkyhpeliwjdx5albkk3t2paq9chejhv3a+g5nxe2y3lf9ldtxqdeccq89rs/wa0l7qd3cy3p3wtaefcgsfudqt72dnviruuem5skm1b1iqxcyo4rpc/4hnr3ep2o9zid2nzoxp9ogpysakjmnh/ami9qtszoaymmdg55qpaqdfsealtycwqwyyxjboq8lwv3y2ulyym2axjun0bccj8w2qkqfkihaokso3hqqqlwmfp1p7ycyudakm0mcv1kymhukqr6kypbo4gugchoehc7gatdmdp98uuqflu8n71bawqlinaorgmsefoyxgzcm30qz3fk8d0qtbuytivjmfgkxoojzqpswyrz+7bvqkimd4oaknkdevokesjhlvb+cufpulevlg3yvjhs5avjxvuvl9lafsx22qso7mh0ff/xaaoeqacageeagecbwaaaaaaaaabagadeqqsiteqyveiqquvicmycph/2gaiaqibat8a/xkerj58wxjxzwhby/wpdwehahevsjyyo5zuijaiqoztsvb7mrdlfdiwzt0r4vvroxc5n5ruofrjv/tls/xiasqxfdwlbs2f1pez+hwvllmyus5byd/edtcjrwptsw1+avgapmqafacwtjpocxxcvtjtj5xajmszmjty9t7llvm5qywrmjd/aoiog4+tcas27eewthuciicmd7jaymkuitaftf9wwa45g7ms0okgnuiaze5cgmposkmr8h7s/tjwm4hgdw4bmr6i6eywzrsrhj7ld9iex8gwx2wk7jx8rlxtitiakspp03dnjn//xaaleqacagibawmfaaaaaaaaaaabagaraxahejfre0grijizuql/2gaiaqmbat8al6zeni0xry4x3yt1sx7ihmnsbj8kmcoimj3r3h2rvwcybexco6feceeiwdipqigfrcppyxm6kpynkhy8rcaqimq9qhtc10a/trvtdzmpciorqkirqrhwzpexovhacwcitocggthq0jel2hxutcaxrcs9pkb+b+rbyabnnzqx5l1axhyy9oez/9k=",
+      "/9j/4aaqskzjrgabaqaaaqabaad/2wceaakjcqkkcqolcwoodw0pdhuteretfr8wgbyyfh8whimehimemcozkscpmypmozu1o0xxsuvjv2pfx2qff4wuruobcqkjcqojcgslcg4pdq8ofrmrermvhxyyfhgwhzaeix4eix4wkjmpjykzkkw7ntu7tfdjrulxal9faov/ha6u6v/cabeiakaawqmbigaceqedeqh/xaawaaacawebaqeaaaaaaaaaaaaabgqfcacdagebaqebaaaaaaaaaaaaaaaaaaaba//aaawdaqaceamqaaaa5+mvkmaaaaaaa9aqzxqayqjpkmaaaaaab0pugx9qgvuz/wdjlrdlcfrn8hqh44canigfrpxx61bmpthllaykqwxy0f9z1+dyh1ljb+ukd+ztmeydn5k02zxsxdjpovfad6clamw9hnifqqmlaqtn5l00zyshztitt91r0uknrzwmxvglxhe0566bzfp04tf89vy+ombkz1tzo/icik7+lvy+and/akdy/qazvztvrh5eohbovgmijh1fcvg/a6hqdl+odkqm8owaaaaaahq9qzf1azvrnjnaaaaaaa6hqdk2mz//xaa4eaabawiccaucbaufaaaaaaabagmeaauheqyqeiexnnkzezayuymiqrqwyyficxouounvvpgs/9oacaebaae/anp4sajpddgirdblkpb2w20hcrm0nysoicsbpdaylx2n2viezbdqfpotzr8san/7dbp7rqssodlv8hzr5wfvott6h+0dwjhol3+dso8rc3nw29d/agjqxi50u/wdlhlyw8623of7r1ykc6xf4oyjysledbb0p9o6sq+dlv8ab2uu5o6xlwmnac87mdwbwy6udihs+o4jicduym/hdzdqahasggghqcikkefbmeuhclqcujmmrno42ojcetmajq2wuhkeaaug01ngmswihbyinx+wrgo+ije0abaiirdhna29d/boretns8fb2uu9cxn0hd2biuokuha3fbjj9qzvxpusealkx21jttkzqc3kxxubtzz7qsuivvhf2frguttpa9qsakn3idb0kly8z9kp3mhpnc5yyifcqhb4lcnsmby7gx+jveetl6rmfutbbeukgji1hlztbeh/thvipzpd/g7kkzngruq4lbeihoxquae/sjpqzmjd01zri7kb2xlzucrxfb8da1dapgnz8pb4bbcu0jb2cxnu/u5u7fu7k2yxjxjsoanimv0inximtrwnfo2vk3gsmedbz0p9o6sr+dlv8hzrqnnsnwmihcimzvyq02wtg3hjml1kgjyaa29r9yrvkioxnulxqjptuuehslujrxkkzbkeh+wzqlaetj63cv8awk0vjamiyt6vvhlzrboh/thvilzpepg7knrrry2omkus+pkqj2xpvirupzhvwp64xissjcup0apzsomhiajuudazngu46s+w2tv+fxgo15ckzl9qrsky3iirh3ardlna2dd/agjqxf50vhwdlgo1oxl/aa7rw98qvcvlgqqvchokl8jlp3jyqpntsb/wjhsasa/mkbiudhd2apubqnwxnwwxwdr7cdv0yugxfz7tkmsmudrb0p8aaorebns8fb2uvcgypzvgxmitewdr9dbu8hzwgmsocvq4/wdnohcn2+z4t7c21f4i9wategtkg0hp0+53cntf7tpn5ppmhr7jso55vdrzbqahenx4hakfkjjx7k1knlkpwwllktkgwye5n9ztnniicllhax7gddv9ddbjr9yckwx52tvq/wbo6r5z2jmm94lphmnomai+bfiyasbwsadma1tqtllwpukvml62qjyinpg3s/8adqjbnspizb3ce5uhtregbycdk5pjpqaq8qoe5xp5b8tji2vfwnfkf5uii22njkqbugttjjvv+kpceifyyc623of7r1acsrixpzdtdluaswohh9ffqdjepsxrnhsgfurdavlb2cqlbtkgnxsnyjirsi9ut5bgr97dt30+6lvabzkjrmdp9zvsjonrwktvha0/r9buegqqpfgwk5rwrtzqsd7z0vsemmrlpat8q2dyaeeu6oqjrc3ns29d/aorty9xkdpze48wqwklwws5f0eu9mlvubx6q64shmkuoqnrwtir+wxgw5kwhquhfvz9cyuf1mhtqnxhwkuaq6s2rxdkpqy+hskfqaxnewtsiretsn1ruvkusfeku7+jp1zag7vhbzpbeh/thvirzpd/g7kpkwt50tvq/wbo6ssodlv8hzr5wfvolt6h+0dwjhol3+dso8rc3ns29d/aorejns7/aadlhlyw86w3of7r1afyo0vs66pxx2nmv+dsunqc0njpplybzikls6a/lktmmpq9m46siqm2zx5q0x/5ba/7pqv/xaabeqacagmbaaaaaaaaaaaaaaabagmridaxup/aaagbagebpwdzjmkbxo12/kgruegkcxzyv//eabsraaicaweaaaaaaaaaaaaaaaecetedidbq/9oacaedaqe/aoi4nzhcut7sqcjvyv/z"
+    ],
+    "learningHistory": [
+      {
+        "query": "/9j/4aaqskzjrgabaqaaaqabaad/2wceaakjcqkkcqolcwoodw0pdhuteretfr8wgbyyfh8whimehimemcozkscpmypmozu1o0xxsuvjv2pfx2qff4wuruobcqkjcqojcgslcg4pdq8ofrmrermvhxyyfhgwhzaeix4eix4wkjmpjykzkkw7ntu7tfdjrulxal9faov/ha6u6v/cabeiakaawgmbigaceqedeqh/xaazaaacawebaqaaaaaaaaaaaaaebqmgbwibaaeaagmbaqaaaaaaaaaaaaaaaaibawqfbv/aaawdaqaceamqaaaaqucnfpx6898dzjumjmcc053x0m5xyjatszpuovtz59j0a/hiyyzxyzgsnmuyldjmbnhzudfas1arrwk1k9bxnaxfu6zrwtutk8g7jd9ovekepajalscqhvfwz+35+oweptpfll9g0c+fsetsqmmi0ohqbhv4nn1zddm/ddrtajmk8/ftahpfr6oetcaok6vcxam5o4915rrczxoeg59sxvvhbihwhnxofap7qsvu/cgepi4lbqdayka2vcdcvwb0gatfoyriqqoatu0xoi8hn1tyz4vxsf2cq33wzyl46kct5zqed6rdbw588ui5h0rtiemrmm1tfzr84f5ls3sareoeqnaci7fkdurs0bse/wddvufkujfxq2q9iiztaqp6sj//xaa3eaacaqmdagqdbqcfaqaaaaabagmabbefeiexqrmiuxegmoeqfcncsvjhcpghwdevjfnikuh/2gaiaqeaat8aau/2n7iinksobdjarbeqzregf2a8nosrvv8alvr8g+w13o/yfsb2vupq96hnbyt3gfydhtkkg4fwp8orne13fzou1gpxuwbe4ao3kgngrx3rykj1nwpbjyo9wx8v2yjrwxoqse4rwsvvhv7mlsmswlhotwtm5uazwjhjx24rwozg8zrglnamadk1cgkh8jgvboek/wbomwqrl0q1iegjufgrvqwk8gs1vwr7ukjeh2nrsakb5cnsttga+uyebzmofhok074u1dio+otysn0+k1gpkglmpqas9k3awem0hjkkd1zrowoa8zkyfcqf3gvv11/ymlbc6jomgc1jplrhkhaaktkgvcysldizydy5i208jjrweiopomqavpvjgbboqvpsa0fzagkwxklsx3blbwdjjnadqfm8e8owadegqcjbjp61cro2swzrnkwprwkmvj9crv7o11a6qlcjs8jh8ptuq13qgsqaog2ng5gvjftnhhi/znehqctrup30g+x+ausihw/ct5t60hbuyudjtwrpliu9zwnwmnz6za+peg2xlwirwy6zcwofeckmsb1xitl0s1jdpyruyp1clyrwrxqw9xnqj/nawej7tvhm0ke5z53yx+pq4ybwhqklko2jjyaq/l/ckb4b+e1uwkuj4s4hzvxwht+napadiwpgvppbjtf3xz3/apvwsc0ukjphmn5forwr6prwrssjfjhhajbtvzy5h5uaaudmvdjuii7hmkrtv15vqujthinhqaj/alcs4vvy15syvsx9am1b6dfxc22ofsk8srgchauj34cvucrrv925rstzhmcilfjaqasrprzfl3yjcb6dmomvi7ycqwchzdiwevguzwcxhd1288g1rxy6jqmstvlfi6rornt34jxnc8a1od8aspugm6giotuyrqphgc8to7q8etnkrdjik0uziieuvuiioyjfs6ffecrsjc6hqt4u5efxzgbesamenffd8n0dx8bguoikuryukitsbj5fzhsay7dv9audlinkl2byahwv2rshtuqg4rx9aunugjggmeyhgy4wueybgvpwippftabfs0mkcbnc4porr+d9kejtl9kj9ixvqb4fvyx2xduv7e7hwi2bvb5ek5jqhppyvbscgur+vku1nrwkqgl72eedvdbm/kutv78u6oylumzs9waaf/rfxu9plqd1nyrev187docwhmavhvr7a2jw5vszbhez2pyy6cpvbtz+1ubzh291gkt0jct61qthjn+pcim4xdda3mb6e1aagbk+dhltdrklio5/lsnkqkdbisaatxvr8l3co4pq5rxidhiv8tr+d7jziy95dkscmqux9fofcoh+h54pmi/mzxjqf4p0cfpew0d1znjkbiriytbs81hyrbfzdjc7v3ang1pejisoawibyf+i8ct4zupmksy7shpxeuw48uojgt/kru0wdu+oajhb7nq8ta/enw5mlmzdug+jcpllxbh+4ihjtsp/aln+gpsp0ulckiislq8vbn7ctsnsrsqnmagafa4xgelyxsbplomsciwnshfl/wbe/q1f6+iijiy7yblbbcybgscox4ptefqfvsfttf/9pnjs0lgizggxa8j2igfzckt7o8ezwhupqqcbzuwrf0vv60ytaqzd2umoovep+71auqzofluiihnkriwb6mx/tvrbw1ozfi6uwz2jyzh1joucspai4c4hu9kjtbx/omfhanmtvyumt50pyldopq1c6kaarwmpjuolrtmtyy9mgmp0nn8pj6ec1e5v6kilozhuohbppwtppsoi20o/vunttoffb8asxom0xwmhf1qyzat0jgb74pr+hjy3oaeybsixdgzknxvyfasg4qykthx3w3fqpvsmuofl09dtxsqdkhppuzaz+vbao+ue9sepo7i1neftdj07l60icojmfrjjrwf9uxyezgwpuabsgziwt0jjytu61jdrgc7ofbpfxu91djikzyf37q5i9dmrcwrfus43dgx0qc4hvt5zugu8vbuilzfdfly5xue6xpkyhpeliwjdx5albkk3t2paq9chejhv3a+g5nxe2y3lf9ldtxqdeccq89rs/wa0l7qd3cy3p3wtaefcgsfudqt72dnviruuem5skm1b1iqxcyo4rpc/4hnr3ep2o9zid2nzoxp9ogpysakjmnh/ami9qtszoaymmdg55qpaqdfsealtycwqwyyxjboq8lwv3y2ulyym2axjun0bccj8w2qkqfkihaokso3hqqqlwmfp1p7ycyudakm0mcv1kymhukqr6kypbo4gugchoehc7gatdmdp98uuqflu8n71bawqlinaorgmsefoyxgzcm30qz3fk8d0qtbuytivjmfgkxoojzqpswyrz+7bvqkimd4oaknkdevokesjhlvb+cufpulevlg3yvjhs5avjxvuvl9lafsx22qso7mh0ff/xaaoeqacageeagecbwaaaaaaaaabagadeqqsiteqyveiqquvicmycph/2gaiaqibat8a/xkerj58wxjxzwhby/wpdwehahevsjyyo5zuijaiqoztsvb7mrdlfdiwzt0r4vvroxc5n5ruofrjv/tls/xiasqxfdwlbs2f1pez+hwvllmyus5byd/edtcjrwptsw1+avgapmqafacwtjpocxxcvtjtj5xajmszmjty9t7llvm5qywrmjd/aoiog4+tcas27eewthuciicmd7jaymkuitaftf9wwa45g7ms0okgnuiaze5cgmposkmr8h7s/tjwm4hgdw4bmr6i6eywzrsrhj7ld9iex8gwx2wk7jx8rlxtitiakspp03dnjn//xaaleqacagibawmfaaaaaaaaaaabagaraxahejfre0grijizuql/2gaiaqmbat8al6zeni0xry4x3yt1sx7ihmnsbj8kmcoimj3r3h2rvwcybexco6feceeiwdipqigfrcppyxm6kpynkhy8rcaqimq9qhtc10a/trvtdzmpciorqkirqrhwzpexovhacwcitocggthq0jel2hxutcaxrcs9pkb+b+rbyabnnzqx5l1axhyy9oez/9k=",
+        "timestamp": "2025-07-26T18:05:18.971Z",
+        "subject": "general",
+        "classLevel": 5
+      },
+      {
+        "query": "/9j/4aaqskzjrgabaqaaaqabaad/2wceaakjcqkkcqolcwoodw0pdhuteretfr8wgbyyfh8whimehimemcozkscpmypmozu1o0xxsuvjv2pfx2qff4wuruobcqkjcqojcgslcg4pdq8ofrmrermvhxyyfhgwhzaeix4eix4wkjmpjykzkkw7ntu7tfdjrulxal9faov/ha6u6v/cabeiakaawqmbigaceqedeqh/xaawaaacawebaqeaaaaaaaaaaaaabgqfcacdagebaqebaaaaaaaaaaaaaaaaaaaba//aaawdaqaceamqaaaa5+mvkmaaaaaaa9aqzxqayqjpkmaaaaaab0pugx9qgvuz/wdjlrdlcfrn8hqh44canigfrpxx61bmpthllaykqwxy0f9z1+dyh1ljb+ukd+ztmeydn5k02zxsxdjpovfad6clamw9hnifqqmlaqtn5l00zyshztitt91r0uknrzwmxvglxhe0566bzfp04tf89vy+ombkz1tzo/icik7+lvy+and/akdy/qazvztvrh5eohbovgmijh1fcvg/a6hqdl+odkqm8owaaaaaahq9qzf1azvrnjnaaaaaaa6hqdk2mz//xaa4eaabawiccaucbaufaaaaaaabagmeaauheqyqeiexnnkzezayuymiqrqwyyficxouounvvpgs/9oacaebaae/anp4sajpddgirdblkpb2w20hcrm0nysoicsbpdaylx2n2viezbdqfpotzr8san/7dbp7rqssodlv8hzr5wfvott6h+0dwjhol3+dso8rc3nw29d/agjqxi50u/wdlhlyw8623of7r1ykc6xf4oyjysledbb0p9o6sq+dlv8ab2uu5o6xlwmnac87mdwbwy6udihs+o4jicduym/hdzdqahasggghqcikkefbmeuhclqcujmmrno42ojcetmajq2wuhkeaaug01ngmswihbyinx+wrgo+ije0abaiirdhna29d/boretns8fb2uu9cxn0hd2biuokuha3fbjj9qzvxpusealkx21jttkzqc3kxxubtzz7qsuivvhf2frguttpa9qsakn3idb0kly8z9kp3mhpnc5yyifcqhb4lcnsmby7gx+jveetl6rmfutbbeukgji1hlztbeh/thvipzpd/g7kkzngruq4lbeihoxquae/sjpqzmjd01zri7kb2xlzucrxfb8da1dapgnz8pb4bbcu0jb2cxnu/u5u7fu7k2yxjxjsoanimv0inximtrwnfo2vk3gsmedbz0p9o6sr+dlv8hzrqnnsnwmihcimzvyq02wtg3hjml1kgjyaa29r9yrvkioxnulxqjptuuehslujrxkkzbkeh+wzqlaetj63cv8awk0vjamiyt6vvhlzrboh/thvilzpepg7knrrry2omkus+pkqj2xpvirupzhvwp64xissjcup0apzsomhiajuudazngu46s+w2tv+fxgo15ckzl9qrsky3iirh3ardlna2dd/agjqxf50vhwdlgo1oxl/aa7rw98qvcvlgqqvchokl8jlp3jyqpntsb/wjhsasa/mkbiudhd2apubqnwxnwwxwdr7cdv0yugxfz7tkmsmudrb0p8aaorebns8fb2uvcgypzvgxmitewdr9dbu8hzwgmsocvq4/wdnohcn2+z4t7c21f4i9wategtkg0hp0+53cntf7tpn5ppmhr7jso55vdrzbqahenx4hakfkjjx7k1knlkpwwllktkgwye5n9ztnniicllhax7gddv9ddbjr9yckwx52tvq/wbo6r5z2jmm94lphmnomai+bfiyasbwsadma1tqtllwpukvml62qjyinpg3s/8adqjbnspizb3ce5uhtregbycdk5pjpqaq8qoe5xp5b8tji2vfwnfkf5uii22njkqbugttjjvv+kpceifyyc623of7r1acsrixpzdtdluaswohh9ffqdjepsxrnhsgfurdavlb2cqlbtkgnxsnyjirsi9ut5bgr97dt30+6lvabzkjrmdp9zvsjonrwktvha0/r9buegqqpfgwk5rwrtzqsd7z0vsemmrlpat8q2dyaeeu6oqjrc3ns29d/aorty9xkdpze48wqwklwws5f0eu9mlvubx6q64shmkuoqnrwtir+wxgw5kwhquhfvz9cyuf1mhtqnxhwkuaq6s2rxdkpqy+hskfqaxnewtsiretsn1ruvkusfeku7+jp1zag7vhbzpbeh/thvirzpd/g7kpkwt50tvq/wbo6ssodlv8hzr5wfvolt6h+0dwjhol3+dso8rc3ns29d/aorejns7/aadlhlyw86w3of7r1afyo0vs66pxx2nmv+dsunqc0njpplybzikls6a/lktmmpq9m46siqm2zx5q0x/5ba/7pqv/xaabeqacagmbaaaaaaaaaaaaaaabagmridaxup/aaagbagebpwdzjmkbxo12/kgruegkcxzyv//eabsraaicaweaaaaaaaaaaaaaaaecetedidbq/9oacaedaqe/aoi4nzhcut7sqcjvyv/z",
+        "timestamp": "2025-07-26T18:06:06.240Z",
+        "subject": "general",
+        "classLevel": 5
+      }
+    ],
+    "joinDate": "2025-07-26T18:05:11.837Z",
+    "audioPreference": true,
+    "voiceMessageCount": 0,
+    "textMessageCount": 0,
+    "lastVoiceLanguage": "en",
+    "difficultyLevel": 1,
+    "streakDays": 0,
+    "lastActiveDate": "2025-07-26",
+    "totalStudyTime": 0,
+    "studyReminders": [],
+    "strengths": [],
+    "weaknesses": [],
+    "recommendedTopics": [],
+    "shouldGenerateAudio": true,
+    "correctAnswer": "",
+    "currentQuestion": "",
+    "voiceEnabled": true
+  }
+}

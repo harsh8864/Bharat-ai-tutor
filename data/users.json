@@ -1,0 +1,38 @@
+{
+  "whatsapp:+919011429593": {
+    "state": "WAITING_FOR_QUIZ_ANSWER",
+    "lastTopic": "",
+    "score": {
+      "correct": 0,
+      "total": 0
+    },
+    "preferredLanguage": "english",
+    "learningLevel": "beginner",
+    "topicsCovered": [
+      "general study",
+      "coding"
+    ],
+    "quizHistory": [],
+    "firstInteraction": "2025-07-22T21:20:42.464Z",
+    "lastInteraction": "2025-07-23T17:28:45.823Z",
+    "timeSpent": 0,
+    "strengths": [],
+    "weaknesses": [],
+    "studyStreak": 0,
+    "totalSessions": 6,
+    "averageSessionTime": 0,
+    "preferredSubjects": [],
+    "difficultyPreference": "medium",
+    "studyReminders": {
+      "enabled": false,
+      "time": "19:00",
+      "frequency": "daily",
+      "lastSent": null
+    },
+    "learningPath": [],
+    "recommendedTopics": [],
+    "performanceHistory": [],
+    "voicePreference": true,
+    "lastQuizAnswer": "A"
+  }
+}

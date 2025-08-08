@@ -3,9 +3,11 @@ services:
     name: bharat-ai-tutor
     env: node
     buildCommand: chmod +x build-render.sh && ./build-render.sh
-    startCommand: npm start
+    startCommand: npm run start:render
     envVars:
       - key: NODE_ENV
         value: production
       - key: PORT
         value: 3000
+    healthCheckPath: /health
+    autoDeploy: true

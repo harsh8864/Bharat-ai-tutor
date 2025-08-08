@@ -6,6 +6,7 @@
   "scripts": {
     "prestart": "node prestart.js",
     "start": "node index.js",
+    "start:render": "node start-render.js",
     "dev": "nodemon index.js",
     "test": "node test_bot.js",
     "test-dashboard": "node test_dashboard.js",

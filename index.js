@@ -1583,13 +1583,24 @@ setInterval(() => {
     saveUserData();
 }, 5 * 60 * 1000);
 
+/* ——————————————————————— HEALTH CHECK ROUTE —————————————————————— */
+app.get('/health', (req, res) => {
+    res.status(200).json({
+        status: 'healthy',
+        timestamp: new Date().toISOString(),
+        uptime: process.uptime(),
+        memory: process.memoryUsage(),
+        venomStatus: venomClient ? 'connected' : 'disconnected'
+    });
+});
+
 /* ——————————————————————— LANDING PAGE ROUTE —————————————————————— */
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 /* ——————————————————————— START THE ENHANCED SERVER —————————————————————— */
-app.listen(PORT, '0.0.0.0', () => {
+const server = app.listen(PORT, '0.0.0.0', () => {
     console.log('\n🚀==========================================🚀');
     console.log('   BHARAT AI TUTOR BOT - ULTIMATE EDITION V5.0');
     console.log('   🔥 PERFECT VOICE SUPPORT + ENGAGING CONTENT 🔥');
@@ -1635,4 +1646,17 @@ app.listen(PORT, '0.0.0.0', () => {
     console.log('');
     console.log('📱 SCAN QR CODE when prompted to connect WhatsApp!');
     console.log('🚀==========================================🚀\n');
+});
+
+// Enhanced error handling for the server
+server.on('error', (error) => {
+    console.error('❌ Server error:', error.message);
+    if (error.code === 'EADDRINUSE') {
+        console.error('⚠️ Port is already in use. Trying to close existing connections...');
+        server.close();
+    }
+});
+
+server.on('close', () => {
+    console.log('🛑 Server closed');
 });

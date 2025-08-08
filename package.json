@@ -4,6 +4,7 @@
   "description": "Bharat AI Tutor WhatsApp Bot with Perfect Voice Message Support - FINAL FIXED VERSION",
   "main": "index.js",
   "scripts": {
+    "prestart": "node prestart.js",
     "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "node test_bot.js",

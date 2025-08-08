@@ -3,22 +3,41 @@
 echo "🚀 Starting Bharat AI Tutor..."
 echo "=============================="
 
-# Install Python dependencies if not already installed
+# Force install Node.js dependencies first
+echo "📦 Installing Node.js dependencies..."
+npm install --production
+
+# Install Python dependencies
 echo "🐍 Installing Python dependencies..."
 pip install -r requirements.txt
 
-# Verify Node.js dependencies
-echo "🔍 Verifying Node.js dependencies..."
-node verify-deps.js
+# Verify critical Node.js dependencies
+echo "🔍 Verifying critical dependencies..."
+node -e "
+try {
+    require('dotenv');
+    console.log('✅ dotenv - OK');
+} catch(e) {
+    console.log('❌ dotenv - MISSING, reinstalling...');
+    require('child_process').execSync('npm install dotenv', {stdio: 'inherit'});
+}
+try {
+    require('express');
+    console.log('✅ express - OK');
+} catch(e) {
+    console.log('❌ express - MISSING, reinstalling...');
+    require('child_process').execSync('npm install express', {stdio: 'inherit'});
+}
+try {
+    require('venom-bot');
+    console.log('✅ venom-bot - OK');
+} catch(e) {
+    console.log('❌ venom-bot - MISSING, reinstalling...');
+    require('child_process').execSync('npm install venom-bot', {stdio: 'inherit'});
+}
+console.log('🎉 All dependencies verified!');
+"
 
-if [ $? -eq 0 ]; then
-    echo "✅ All dependencies verified successfully!"
-    echo "📱 Starting WhatsApp bot..."
-    npm start
-else
-    echo "❌ Dependency verification failed!"
-    echo "💡 Installing Node.js dependencies..."
-    npm install
-    echo "📱 Starting WhatsApp bot..."
-    npm start
-fi
+# Start the application
+echo "📱 Starting WhatsApp bot..."
+npm start

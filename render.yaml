@@ -3,7 +3,7 @@ services:
     name: bharat-ai-tutor
     env: node
     buildCommand: npm install
-    startCommand: chmod +x start.sh && ./start.sh
+    startCommand: npm start
     envVars:
       - key: NODE_ENV
         value: production

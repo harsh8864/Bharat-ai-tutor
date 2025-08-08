@@ -2,7 +2,7 @@ services:
   - type: web
     name: bharat-ai-tutor
     env: node
-    buildCommand: npm install
+    buildCommand: chmod +x build-render.sh && ./build-render.sh
     startCommand: npm start
     envVars:
       - key: NODE_ENV

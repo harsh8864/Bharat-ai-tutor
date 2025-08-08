@@ -12,7 +12,8 @@
     "setup:windows": "setup.bat",
     "deploy": "node deploy.js",
     "deploy:railway": "echo '🚀 Deploying to Railway...' && echo '1. Go to https://railway.app' && echo '2. Connect your GitHub repo' && echo '3. Set environment variables' && echo '4. Deploy!'",
-    "deploy:render": "echo '🚀 Deploying to Render...' && echo '1. Go to https://render.com' && echo '2. Connect your GitHub repo' && echo '3. Set environment variables' && echo '4. Deploy!'"
+    "deploy:render": "echo '🚀 Deploying to Render...' && echo '1. Go to https://render.com' && echo '2. Connect your GitHub repo' && echo '3. Set environment variables' && echo '4. Deploy!'",
+    "postinstall": "echo '✅ Dependencies installed successfully!'"
   },
   "keywords": [
     "whatsapp",

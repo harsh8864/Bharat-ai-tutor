@@ -1,0 +1,56 @@
+{
+  "name": "bharat-ai-tutor-whatsapp-bot",
+  "version": "7.0.0",
+  "description": "Bharat AI Tutor WhatsApp Bot with Perfect Voice Message Support - FINAL FIXED VERSION",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node test_bot.js",
+    "test-dashboard": "node test_dashboard.js",
+    "setup": "bash setup.sh",
+    "setup:windows": "setup.bat",
+    "deploy": "node deploy.js",
+    "deploy:railway": "echo '🚀 Deploying to Railway...' && echo '1. Go to https://railway.app' && echo '2. Connect your GitHub repo' && echo '3. Set environment variables' && echo '4. Deploy!'",
+    "deploy:render": "echo '🚀 Deploying to Render...' && echo '1. Go to https://render.com' && echo '2. Connect your GitHub repo' && echo '3. Set environment variables' && echo '4. Deploy!'"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "tutor",
+    "education",
+    "voice",
+    "node",
+    "hindi",
+    "english",
+    "gemini",
+    "venom-bot"
+  ],
+  "author": "Bharat AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3",
+    "venom-bot": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/bharat-ai-tutor-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/bharat-ai-tutor-bot/issues"
+  },
+  "homepage": "https://github.com/your-username/bharat-ai-tutor-bot#readme"
+}

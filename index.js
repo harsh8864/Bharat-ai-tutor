@@ -1589,12 +1589,12 @@ app.get('/', (req, res) => {
 });
 
 /* ——————————————————————— START THE ENHANCED SERVER —————————————————————— */
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
     console.log('\n🚀==========================================🚀');
     console.log('   BHARAT AI TUTOR BOT - ULTIMATE EDITION V5.0');
     console.log('   🔥 PERFECT VOICE SUPPORT + ENGAGING CONTENT 🔥');
     console.log('🚀==========================================🚀');
-    console.log(`✅ Enhanced server running on http://localhost:${PORT}`);
+    console.log(`✅ Enhanced server running on http://0.0.0.0:${PORT}`);
     console.log(`📱 FREE WhatsApp integration via Enhanced Venom Bot`);
     console.log(`📊 Enhanced stats at /stats`);
     console.log(`📱 WhatsApp status at /whatsapp-status`);

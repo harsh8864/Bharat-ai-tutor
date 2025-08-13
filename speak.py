@@ -11,20 +11,21 @@ def clean_text_for_perfect_educational_speech(text):
     """Ultimate text cleaning specifically for perfect educational content delivery."""
     
     # Remove markdown and formatting
-    text = re.sub(r'\*{1,2}([^*]+)\*{1,2}', r'\1', text)  # Bold
-    text = re.sub(r'_{1,2}([^_]+)_{1,2}', r'\1', text)    # Italics
-    text = re.sub(r'`([^`]+)`', r'\1', text)              # Code
-    text = re.sub(r'#{1,6}\s*', '', text)                 # Headers
+    # text = re.sub(r'\*{1,2}([^*]+)\*{1,2}', r'\1', text)  # Bold
+    # text = re.sub(r'_{1,2}([^_]+)_{1,2}', r'\1', text)    # Italics
+    # text = re.sub(r'`([^`]+)`', r'\1', text)              # Code
+    # text = re.sub(r'#{1,6}\s*', '', text)                 # Headers
     text = re.sub(r'\[ANSWER:.*?\]', '', text)            # Remove answer hooks
     
     # Remove emojis and special symbols for cleaner speech
-    text = re.sub(r'[📚💡🎯✨🔬💻🧠🎉💪🙏🇮🇳🌟⚡🚀🔥]', '', text)
-    text = re.sub(r'[^\w\s.,!?;:\'-]', ' ', text)
+    # text = re.sub(r'[📚💡🎯✨🔬💻🧠🎉💪🙏🇮🇳🌟⚡🚀🔥]', '', text)
+    # text = re.sub(r'[^\w\s.,!?;:\'\-]', ' ', text)
     
     # Convert educational formatting to speech-friendly format
-    text = re.sub(r'•\s*', 'Point: ', text)  # Bullet points
-    text = re.sub(r'\d+\.\s*', lambda m: f'Number {m.group().strip()}: ', text)  # Numbered lists
-    text = re.sub(r'(\w+):\s*', r'\1. ', text)  # Convert colons to periods for better flow
+    # text = re.sub(r'•\s*', 'Point: ', text)  # Bullet points
+    # text = re.sub(r'\d+\.\s*', lambda m: f'Number {m.group().strip()}: ', text)  # Numbered lists
+    # text = re.sub(r'(\w+):\s*', r'\1. ', text)  # Convert colons to periods for better flow
+
     
     # Enhanced technical abbreviations with pronunciations
     technical_replacements = {

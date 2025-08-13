@@ -2,12 +2,12 @@ services:
   - type: web
     name: bharat-ai-tutor
     env: node
-    buildCommand: chmod +x build-render.sh && ./build-render.sh
-    startCommand: npm run start:render
+    buildCommand: npm install
+    startCommand: npm start
     envVars:
-      - key: NODE_ENV
-        value: production
-      - key: PORT
-        value: 3000
-    healthCheckPath: /health
-    autoDeploy: true
+      - key: NODE_VERSION
+        value: 18.18.0
+      - key: PUPPETEER_SKIP_DOWNLOAD
+        value: true
+      - key: CHROME_BIN
+        value: /usr/bin/google-chrome-stable

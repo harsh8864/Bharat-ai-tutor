@@ -565,19 +565,16 @@ function splitMessage(text, maxLength = 1500) {
 /* ——————————————————————— VENOM BOT INTEGRATION - FIXED —————————————————————— */
 
 async function initializeVenomBot() {
-    console.log('\n🚀 Initializing Enhanced Venom Bot for FREE WhatsApp integration...');
+    console.log('\n🚀 Initializing Enhanced Venom Bot...');
     
     try {
         venomClient = await venom.create({
             session: VENOM_SESSION,
             multidevice: true,
-            folderNameToken: 'sessions',
-            headless: false,
-            devtools: false,
-            useChrome: true,
+            headless: true, // Required for Render
+            useChrome: false, // Use Chromium instead
             debug: false,
             logQR: true,
-            browserWS: '',
             browserArgs: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
@@ -585,25 +582,18 @@ async function initializeVenomBot() {
                 '--disable-accelerated-2d-canvas',
                 '--no-first-run',
                 '--no-zygote',
+                '--single-process',
                 '--disable-gpu'
-            ],
-            autoClose: 60000,
-            createPathFileToken: true,
+            ]
         });
 
-        console.log('✅ Enhanced Venom Bot initialized successfully!');
-        
+        console.log('✅ Venom Bot initialized successfully!');
         venomClient.onMessage(handleVenomMessage);
         
-        venomClient.onStateChange((state) => {
-            console.log('📱 WhatsApp State:', state);
-        });
-
         return venomClient;
-        
     } catch (error) {
         console.error('❌ Failed to initialize Venom Bot:', error);
-        process.exit(1);
+        throw error;
     }
 }
 
@@ -1273,8 +1263,8 @@ app.get('/', (req, res) => {
             '✅ FIXED: Hindi/English TTS quality enhancement',
             '✅ FIXED: More engaging educational responses',
             '✅ FIXED: Robust error handling with user feedback',
-            '✅ FIXED: Better logging and debugging',
-            '✅ FIXED: Audio transcription accuracy',
+            '✅ FIXED: Enhanced debugging and logging',
+            '✅ FIXED: Better audio transcription accuracy',
             '✅ FIXED: Bilingual content generation'
         ]
     });

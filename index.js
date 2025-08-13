@@ -567,27 +567,46 @@ function splitMessage(text, maxLength = 1500) {
 async function initializeVenomBot() {
     console.log('\n🚀 Initializing Enhanced Venom Bot...');
     
+    const chromiumArgs = [
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--disable-gpu',
+        '--no-first-run',
+        '--no-zygote',
+        '--single-process',
+        '--use-gl=swiftshader'
+    ];
+
     try {
         venomClient = await venom.create({
-            session: VENOM_SESSION,
+            session: 'bharat-ai-tutor',
             multidevice: true,
-            headless: true, // Required for Render
-            useChrome: false, // Use Chromium instead
-            debug: false,
+            headless: 'new',
+            useChrome: false,
+            browserArgs: chromiumArgs,
+            createPathFileToken: true,
+            waitForLogin: true,
+            debug: true,
+            updatesLog: true,
             logQR: true,
-            browserArgs: [
-                '--no-sandbox',
-                '--disable-setuid-sandbox',
-                '--disable-dev-shm-usage',
-                '--disable-accelerated-2d-canvas',
-                '--no-first-run',
-                '--no-zygote',
-                '--single-process',
-                '--disable-gpu'
-            ]
+            disableWelcome: true,
+            disableSpins: true,
+            catchQR: (qrCode, asciiQR, attempt) => {
+                console.log('QR Code Generated (Attempt ' + attempt + '):');
+                console.log(asciiQR);
+            }
         });
 
         console.log('✅ Venom Bot initialized successfully!');
+        isVenomReady = true;
+        
+        venomClient.onStateChange((state) => {
+            console.log('🔄 Connection state:', state);
+            isVenomReady = state === 'CONNECTED';
+        });
+
         venomClient.onMessage(handleVenomMessage);
         
         return venomClient;

@@ -27,3 +27,7 @@ uuid>=1.30
 # Optional: For better performance
 torch>=2.0.0
 torchaudio>=2.0.0
+
+setuptools>=65.5.1
+wheel>=0.38.0
+distutils-extra>=2.39

@@ -4,18 +4,19 @@
   "description": "Bharat AI Tutor WhatsApp Bot with Perfect Voice Message Support",
   "main": "index.js",
   "scripts": {
-    "start": "node start-render.js"
+    "start": "node start-render.js",
+    "preinstall": "npm install -g node-gyp"
   },
   "dependencies": {
     "venom-bot": "5.0.21",
-    "express": "^4.18.2",
-    "dotenv": "^16.3.1",
-    "axios": "^1.6.2",
-    "node-cron": "^3.0.3",
-    "multer": "^1.4.5-lts.1",
-    "puppeteer": "21.0.0"
+    "express": "4.18.2",
+    "dotenv": "16.3.1",
+    "axios": "1.6.2",
+    "node-cron": "3.0.3",
+    "multer": "1.4.5-lts.1",
+    "sharp": "0.32.6"
   },
   "engines": {
-    "node": ">=18.18.0 <19.0.0"
+    "node": "18.18.0"
   }
 }

@@ -2,6 +2,7 @@ services:
   - type: web
     name: bharat-ai-tutor
     env: node
+    plan: free
     buildCommand: |
       npm install
       pip3 install -r requirements.txt
@@ -13,8 +14,4 @@ services:
         value: "true"
       - key: CHROME_BIN
         value: /usr/bin/google-chrome-stable
-    buildFilter:
-      paths:
-      - package.json
-      - index.js
-      - start-render.js
+    envVarsFile: .env

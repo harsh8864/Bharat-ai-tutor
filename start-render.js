@@ -9,19 +9,27 @@ const fs = require('fs');
 
 console.log('🚀 Starting Bharat AI Tutor on Render...');
 
-// Set Chrome flags for Render environment
+// Environment setup
 process.env.PUPPETEER_SKIP_DOWNLOAD = 'true';
 process.env.CHROME_BIN = '/usr/bin/google-chrome-stable';
 process.env.DISPLAY = ':0';
 
+// Create required directories
+const dirs = ['temp', 'audio', 'uploads'];
+dirs.forEach(dir => {
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir);
+    }
+});
+
 // Start the application
 console.log('📱 Starting WhatsApp bot...');
 const app = spawn('node', ['index.js'], {
-  stdio: 'inherit',
-  env: { ...process.env }
+    stdio: 'inherit',
+    env: { ...process.env }
 });
 
 app.on('exit', (code) => {
-  console.log(`⚠️ Application exited with code ${code}`);
-  process.exit(code);
+    console.log(`⚠️ Application exited with code ${code}`);
+    process.exit(code);
 });

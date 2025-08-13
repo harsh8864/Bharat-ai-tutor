@@ -2,12 +2,19 @@ services:
   - type: web
     name: bharat-ai-tutor
     env: node
-    buildCommand: npm install
+    buildCommand: |
+      npm install
+      pip3 install -r requirements.txt
     startCommand: npm start
     envVars:
       - key: NODE_VERSION
         value: 18.18.0
       - key: PUPPETEER_SKIP_DOWNLOAD
-        value: true
+        value: "true"
       - key: CHROME_BIN
         value: /usr/bin/google-chrome-stable
+    buildFilter:
+      paths:
+      - package.json
+      - index.js
+      - start-render.js
